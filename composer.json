@@ -1,0 +1,17 @@
+{
+    "name": "shake/container",
+    "type": "library",
+    "version": "1.0.0",
+    "authors": [{
+        "name": "shake",
+        "email": "350258655@qq.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Shake\\Container\\": "src/"
+        }
+    },
+    "require": {
+        "psr/container": "^1.0"
+    }
+}
