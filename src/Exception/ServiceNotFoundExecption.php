@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Shake\Container\Execption;
+namespace ZhengXiaokai\Container\Execption;
 
 use Exception;
 use Psr\Container\NotFoundExceptionInterface;

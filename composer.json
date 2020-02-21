@@ -1,14 +1,14 @@
 {
-    "name": "shake/container",
+    "name": "zhengxiaokai/container",
     "type": "library",
     "version": "1.0.0",
     "authors": [{
-        "name": "shake",
+        "name": "zhengxiaokai",
         "email": "350258655@qq.com"
     }],
     "autoload": {
         "psr-4": {
-            "Shake\\Container\\": "src/"
+            "ZhengXiaokai\\Container\\": "src/"
         }
     },
     "require": {

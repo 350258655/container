@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Shake\Container\Reference;
+namespace ZhengXiaokai\Container\Reference;
 
 /**
  * 服务实例和参数实例的抽象类
