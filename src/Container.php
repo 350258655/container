@@ -1,5 +1,7 @@
 <?php
 
+namespace ZhengXiaokai\Container;
+
 
 use Psr\Container\ContainerInterface;
 use ZhengXiaokai\Container\Execption\ContainerExecption;
